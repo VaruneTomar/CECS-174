@@ -11,4 +11,4 @@ Project 4 -
 
 Project 5 - Roman Numeral Calculator
 
-FortuneTeller -
+FortuneTeller - (Java Project) Takes various inputs from the user and expresses a fortune in words and symbols. 
