@@ -3,7 +3,7 @@ Intro to Programming &amp; Problem Solving
 
 Project 1 - 
 
-Project 2 - 
+Project 2 - Water Meter Reading - Takes inputs and calculates amount billed and gallons of water used.
 
 Project 3 -
 
