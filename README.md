@@ -1,7 +1,7 @@
 # CECS-174
 Intro to Programming &amp; Problem Solving
 
-- Most projects programmed in Python except for the FortuneTeller project.
+- Projects programmed in Python except for the FortuneTeller project
 
 Project 1 - Takes inputs from the user and finds the Final Alarm Time. 
 
